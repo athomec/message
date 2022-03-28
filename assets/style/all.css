@@ -13767,13 +13767,13 @@ footer {
 
 .page-container {
   min-height: calc(100vh - 99px);
-  font-size: 0.9em; }
-  .page-container[data-content="content"] {
-    min-height: calc(100vh - 64px);
-    /*ipnone5*/ }
-    @media (max-width: 320px) {
-      .page-container[data-content="content"] {
-        padding-bottom: 80px; } }
+  font-size: 0.9em;
+  /*ipnone5*/ }
+  @media (max-width: 320px) {
+    .page-container {
+      padding-bottom: 80px !important; } }
+  .page-container[data-content="info"] {
+    min-height: calc(100vh - 64px); }
 
 .notice {
   line-height: 1.3;
