@@ -13796,7 +13796,9 @@ footer {
       .notice[data-posttion="bottom"] {
         position: relative;
         width: 100%;
-        bottom: 0; } }
+        bottom: 0; }
+        .notice[data-posttion="bottom"] br {
+          display: none; } }
 
 .tag-list {
   overflow-x: hidden !important;
