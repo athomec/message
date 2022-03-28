@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="icon-reserve" transform="translate(-262 -184)">
+    <g id="calendar_month_black_24dp" transform="translate(267.091 189.091)">
+      <g id="Group_437" data-name="Group 437">
+        <rect id="Rectangle_88" data-name="Rectangle 88" width="30" height="30" transform="translate(-0.091 -0.091)" fill="none"/>
+      </g>
+      <g id="Group_438" data-name="Group 438" transform="translate(3.731 2.488)">
+        <path id="Path_480" data-name="Path 480" d="M22.9,4.488H21.656V2H19.169V4.488H9.219V2H6.731V4.488H5.488A2.476,2.476,0,0,0,3.012,6.975L3,24.388a2.487,2.487,0,0,0,2.488,2.488H22.9a2.5,2.5,0,0,0,2.488-2.488V6.975A2.5,2.5,0,0,0,22.9,4.488Zm0,19.9H5.488V11.95H22.9ZM10.463,16.925H7.975V14.438h2.488Zm4.975,0H12.95V14.438h2.488Zm4.975,0H17.925V14.438h2.488ZM10.463,21.9H7.975V19.413h2.488Zm4.975,0H12.95V19.413h2.488Zm4.975,0H17.925V19.413h2.488Z" transform="translate(-3 -2)" fill="#d29ad4"/>
+      </g>
+    </g>
+    <rect id="Rectangle_98" data-name="Rectangle 98" width="40" height="40" transform="translate(262 184)" fill="none"/>
+  </g>
+</svg>
