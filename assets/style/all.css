@@ -13431,6 +13431,11 @@ input::placeholder {
   .main-pic {
     margin: 0 auto;
     max-width: 270px; }
+  .main ~ div {
+    /*ipnone5*/ }
+    @media (max-width: 320px) {
+      .main ~ div {
+        padding-bottom: 100px !important; } }
 
 .top-title {
   display: inline-block;
@@ -13779,7 +13784,15 @@ footer {
   .notice[data-posttion="bottom"] {
     position: fixed;
     bottom: 70px;
-    width: calc(100% - 48px); }
+    width: calc(100% - 48px);
+    /*ipnone5*/ }
+    .notice[data-posttion="bottom"] p {
+      margin-right: 65px; }
+    @media (max-width: 320px) {
+      .notice[data-posttion="bottom"] {
+        position: relative;
+        width: 100%;
+        bottom: 0; } }
 
 .tag-list {
   overflow-x: hidden !important;
