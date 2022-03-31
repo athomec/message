@@ -24,47 +24,16 @@ $('.js-toggle-menu').find(".js-toggle-button").click(function () {
 		return false;
 	})
 
-	
 
 	//手風琴按鈕切換設定
 	$(".js-accordion-menu").find('button').click(function () {
 		if ($(this).hasClass("active")) {
 			$(this).removeClass("active");
-			$(this).find('span').removeClass('ti-angle-up').addClass('ti-angle-down');
 		} else {
 			$(this).parents(".js-accordion-menu").find('button').removeClass('active');
-			$(this).parents(".js-accordion-menu").find('button').find('span').removeClass('ti-angle-up').addClass('ti-angle-down');
 			$(this).addClass("active");
-			$(this).find('span').removeClass('ti-angle-down').addClass('ti-angle-up');
 		}
 
-	});
-
-	//地圖切換按鈕設定
-	$(".js-side-toggle").find(".js-toggle-menu").find(".btn").click(function () {
-		$(".js-side-menu").addClass("open");
-		$(".js-side-toggle").addClass("open");
-		$(".js-side-content").addClass("open");
-	})
-	//地圖收合按鈕設定
-	$(".js-map-toggler").click(function () {
-		if($("#layer-all").hasClass("show")){
-			$("#layer-all").removeClass("show");
-			$("#locate-all").addClass("show");
-		}else{
-			$("#locate-all").addClass("show");
-		}
-
-		$(".js-side-menu").toggleClass("open");
-		$(".js-side-toggle").toggleClass("open");
-		$(".js-side-content").toggleClass("open");
-		$(this).toggleClass("open");
-		if($(this).hasClass("open")){
-			$('[data-bs-target="#locate-all"]').addClass("active");
-		}else{
-			$(".js-side-toggle").find(".js-toggle-menu").find(".btn").removeClass("active")
-		}
-		
 	});
 
 	//----------------gotop功能-----------------
