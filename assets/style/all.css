@@ -11609,7 +11609,7 @@ input::placeholder {
       -ms-flex-align: center;
           align-items: center;
   position: relative; }
-  .btn-border-primary-color:focus {
+  .btn-border-primary-color:hover {
     background: #EEFFFE !important; }
   .btn-border-primary-color .btn-border-img {
     position: absolute;
@@ -11632,7 +11632,7 @@ input::placeholder {
       -ms-flex-align: center;
           align-items: center;
   position: relative; }
-  .btn-border-primary-light-color:focus {
+  .btn-border-primary-light-color:hover {
     background: #EEFFFE !important; }
   .btn-border-primary-light-color .btn-border-img {
     position: absolute;
@@ -11655,7 +11655,7 @@ input::placeholder {
       -ms-flex-align: center;
           align-items: center;
   position: relative; }
-  .btn-border-primary-xlight-color:focus {
+  .btn-border-primary-xlight-color:hover {
     background: #EEFFFE !important; }
   .btn-border-primary-xlight-color .btn-border-img {
     position: absolute;
@@ -11678,7 +11678,7 @@ input::placeholder {
       -ms-flex-align: center;
           align-items: center;
   position: relative; }
-  .btn-border-primary-xxlight-color:focus {
+  .btn-border-primary-xxlight-color:hover {
     background: #EEFFFE !important; }
   .btn-border-primary-xxlight-color .btn-border-img {
     position: absolute;
@@ -11701,7 +11701,7 @@ input::placeholder {
       -ms-flex-align: center;
           align-items: center;
   position: relative; }
-  .btn-border-primary-xxxlight-color:focus {
+  .btn-border-primary-xxxlight-color:hover {
     background: #EEFFFE !important; }
   .btn-border-primary-xxxlight-color .btn-border-img {
     position: absolute;
@@ -11724,7 +11724,7 @@ input::placeholder {
       -ms-flex-align: center;
           align-items: center;
   position: relative; }
-  .btn-border-primary-bright-color:focus {
+  .btn-border-primary-bright-color:hover {
     background: #EEFFFE !important; }
   .btn-border-primary-bright-color .btn-border-img {
     position: absolute;
@@ -11747,7 +11747,7 @@ input::placeholder {
       -ms-flex-align: center;
           align-items: center;
   position: relative; }
-  .btn-border-secondary-color:focus {
+  .btn-border-secondary-color:hover {
     background: #EEFFFE !important; }
   .btn-border-secondary-color .btn-border-img {
     position: absolute;
@@ -11770,7 +11770,7 @@ input::placeholder {
       -ms-flex-align: center;
           align-items: center;
   position: relative; }
-  .btn-border-tertiary-color:focus {
+  .btn-border-tertiary-color:hover {
     background: #EEFFFE !important; }
   .btn-border-tertiary-color .btn-border-img {
     position: absolute;
@@ -11793,7 +11793,7 @@ input::placeholder {
       -ms-flex-align: center;
           align-items: center;
   position: relative; }
-  .btn-border-assist-color:focus {
+  .btn-border-assist-color:hover {
     background: #EEFFFE !important; }
   .btn-border-assist-color .btn-border-img {
     position: absolute;
@@ -11816,7 +11816,7 @@ input::placeholder {
       -ms-flex-align: center;
           align-items: center;
   position: relative; }
-  .btn-border-assist-light-color:focus {
+  .btn-border-assist-light-color:hover {
     background: #EEFFFE !important; }
   .btn-border-assist-light-color .btn-border-img {
     position: absolute;
@@ -11839,7 +11839,7 @@ input::placeholder {
       -ms-flex-align: center;
           align-items: center;
   position: relative; }
-  .btn-border-alert-color:focus {
+  .btn-border-alert-color:hover {
     background: #EEFFFE !important; }
   .btn-border-alert-color .btn-border-img {
     position: absolute;
@@ -11862,7 +11862,7 @@ input::placeholder {
       -ms-flex-align: center;
           align-items: center;
   position: relative; }
-  .btn-border-pale-color:focus {
+  .btn-border-pale-color:hover {
     background: #EEFFFE !important; }
   .btn-border-pale-color .btn-border-img {
     position: absolute;
@@ -11885,7 +11885,7 @@ input::placeholder {
       -ms-flex-align: center;
           align-items: center;
   position: relative; }
-  .btn-border-pale-dark-color:focus {
+  .btn-border-pale-dark-color:hover {
     background: #EEFFFE !important; }
   .btn-border-pale-dark-color .btn-border-img {
     position: absolute;
@@ -11908,7 +11908,7 @@ input::placeholder {
       -ms-flex-align: center;
           align-items: center;
   position: relative; }
-  .btn-border-special-color:focus {
+  .btn-border-special-color:hover {
     background: #EEFFFE !important; }
   .btn-border-special-color .btn-border-img {
     position: absolute;
@@ -11931,7 +11931,7 @@ input::placeholder {
       -ms-flex-align: center;
           align-items: center;
   position: relative; }
-  .btn-border-white:focus {
+  .btn-border-white:hover {
     background: #EEFFFE !important; }
   .btn-border-white .btn-border-img {
     position: absolute;
@@ -11954,7 +11954,7 @@ input::placeholder {
       -ms-flex-align: center;
           align-items: center;
   position: relative; }
-  .btn-border-gray-light:focus {
+  .btn-border-gray-light:hover {
     background: #EEFFFE !important; }
   .btn-border-gray-light .btn-border-img {
     position: absolute;
@@ -11977,7 +11977,7 @@ input::placeholder {
       -ms-flex-align: center;
           align-items: center;
   position: relative; }
-  .btn-border-gray:focus {
+  .btn-border-gray:hover {
     background: #EEFFFE !important; }
   .btn-border-gray .btn-border-img {
     position: absolute;
@@ -12000,7 +12000,7 @@ input::placeholder {
       -ms-flex-align: center;
           align-items: center;
   position: relative; }
-  .btn-border-gray-dark:focus {
+  .btn-border-gray-dark:hover {
     background: #EEFFFE !important; }
   .btn-border-gray-dark .btn-border-img {
     position: absolute;
@@ -12023,7 +12023,7 @@ input::placeholder {
       -ms-flex-align: center;
           align-items: center;
   position: relative; }
-  .btn-border-gray-darken:focus {
+  .btn-border-gray-darken:hover {
     background: #EEFFFE !important; }
   .btn-border-gray-darken .btn-border-img {
     position: absolute;
@@ -12062,7 +12062,7 @@ input::placeholder {
             align-items: center;
     border: 2px solid #DCFAFF; }
   .menu-btn:hover {
-    color: #666666; }
+    color: #666666 !important; }
     .menu-btn:hover .menu-btn-icon {
       border: 2px solid #51A7FE; }
 
