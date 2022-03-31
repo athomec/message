@@ -13812,9 +13812,14 @@ footer {
 
 .info-btn {
   border: 2px solid;
-  font-size: 0.7em;
+  font-size: 0.8em;
   padding: 5px 0;
-  letter-spacing: -1px; }
+  letter-spacing: .5px;
+  /*ipnone5*/ }
+  @media (max-width: 320px) {
+    .info-btn {
+      font-size: 0.7em;
+      letter-spacing: -1px; } }
 
 .info-btn-secondary-color {
   color: #4EB531 !important;
