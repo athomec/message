@@ -12061,9 +12061,9 @@ input::placeholder {
         -ms-flex-align: center;
             align-items: center;
     border: 2px solid #DCFAFF; }
-  .menu-btn:focus {
+  .menu-btn:hover {
     color: #666666; }
-    .menu-btn:focus .menu-btn-icon {
+    .menu-btn:hover .menu-btn-icon {
       border: 2px solid #51A7FE; }
 
 .toggle-menu {
