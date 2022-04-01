@@ -13839,7 +13839,8 @@ footer {
   color: #F9A01A !important;
   background: #FFF7EE;
   border: 2px solid #FFEBD1;
-  padding: 5px 0; }
+  padding: 5px 0;
+  letter-spacing: -1px; }
   .info-btn-tertiary-color:focus {
     background: #FFEFDC; }
 
